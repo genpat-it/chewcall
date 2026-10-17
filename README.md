@@ -271,7 +271,9 @@ request from the authors.
 
 ## License
 
-GPL-3.0 — same as the original [chewBBACA](https://github.com/B-UMMI/chewBBACA).
+This project is distributed under the GNU General Public License v3.0 or later
+(`GPL-3.0-or-later`). See [`LICENSE`](LICENSE). This is compatible with the
+licence used by the original [chewBBACA](https://github.com/B-UMMI/chewBBACA).
 
 ## Authors
 
